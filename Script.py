@@ -6,14 +6,14 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/nawabbotupdate>ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/GOD_OF_SKULL>SKULL KING</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/ONLINE_UPDATE_0>ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
 <b>ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-   Developer <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
+   Developer <a href=https://t.me/GOD_OF_SKULL>SKULL KING</a></b>
 
 """
 
